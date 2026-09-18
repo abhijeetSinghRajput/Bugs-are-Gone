@@ -1,4 +1,4 @@
-# Scalable E-Commerce SRE System
+# Scalable E-Commerce SRE System 
 
 A distributed microservices architecture designed to demonstrate **observability (RED metrics & Prometheus), self-healing (circuit breakers, retries, DLQ), and auto-scaling (Kubernetes HPA & KEDA)**.
 
