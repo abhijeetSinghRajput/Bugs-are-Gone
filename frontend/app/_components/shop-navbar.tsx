@@ -50,7 +50,7 @@ export function ShopNavbar() {
               className="size-9 rounded-full object-cover transition-transform group-hover:scale-105 shadow-sm shrink-0"
               priority
             />
-            <span className={cn("font-serif text-xl font-bold tracking-tight text-foreground")}>
+            <span className={cn("hidden sm:inline-block font-serif text-xl font-bold tracking-tight text-foreground")}>
               Beauty Shop<span className={cn("text-emerald-700")}>.</span>
             </span>
           </Link>
